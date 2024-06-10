@@ -1,6 +1,8 @@
 # Bank-Loan-Analysis
 Bank Loan Analysis
+
 Introduction:
+
 This Bank Loan Report, derived from an extensive SQL-based exploratory data analysis (EDA) and data visualization project using Power BI, offers a comprehensive overview of the bank's loan portfolio. Through complex queries and data manipulations, the report provides detailed insights into application volumes, funding activities, and repayment performance. It highlights the overall health of the bank’s lending operations and reveals critical patterns and trends across various dimensions, offering an in-depth examination of the portfolio.
 
 Skills Demonstrated:
