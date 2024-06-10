@@ -101,6 +101,7 @@ The detailed section of the report breaks down the loan data by various dimensio
 A detailed table lists individual loan records with columns for loan ID, purpose, home ownership status, grade and sub-grade, issue date, total funded amount, interest rate, instalment sum, and total amount received. This table allows for in-depth analysis of specific loans and their attributes, supporting a granular examination of the loan portfolio's composition and performance.
 
 **Conclusion:**
+
 This Bank Loan Report offers a detailed and comprehensive analysis of the bank’s loan portfolio. By examining various aspects such as loan quality, status, purpose, and borrower characteristics, the report provides valuable insights for managing and optimizing the bank’s lending operations. The visual summaries and detailed breakdowns make it easier to identify trends, assess risks, and make informed decisions.
 
 
