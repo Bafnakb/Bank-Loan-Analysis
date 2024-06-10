@@ -1,4 +1,4 @@
-![image](https://github.com/Bafnakb/Bank-Loan-Analysis/assets/106813409/995287fa-76de-4ff8-ac07-9f53f3ebfcfb)# Bank Loan Analysis
+# Bank Loan Analysis
 
 **Introduction:**
 
@@ -32,25 +32,29 @@ The data shows an increase in the number of loan applications, funded amounts, a
 
 **What is the primary purpose for which loans are collected?**
 
- 
+ ![image](https://github.com/Bafnakb/Bank-Loan-Analysis/assets/106813409/462b1fcc-2302-4a60-b404-fb8ca744c6a7)
+
 
 One of the main purposes of borrowers collecting the loan is because of debt consolidations. According to research Debt consolidation refers to taking out a new loan or credit card to pay off other existing loans or credit cards. By combining multiple debts into a single, larger loan, you may also be able to obtain more favourable payoff terms, such as a lower interest rate, lower monthly payments, or both.
 
 **Does homeownership influence the loan approval process for applicants?**
 
- 
+ ![image](https://github.com/Bafnakb/Bank-Loan-Analysis/assets/106813409/4647a6de-15a4-46b6-b8be-a070a613dd3f)
+
 
 Based on our analysis, we’ve observed that applicants with mortgages tend to secure larger loan amounts compared to those who rent, despite there being a higher number of rental applications. This trend could be attributed to several factors, including the likelihood of homeowners having lower default rates on loans and the availability of collateral, such as the property itself, which provides added security for lenders.
 
 
 **What is the level of employment stability among borrowers?**
 
- 
+ ![image](https://github.com/Bafnakb/Bank-Loan-Analysis/assets/106813409/f8b531fb-97de-451a-b9c8-1cda7e07cb3d)
+
 
 Based on our analysis, we’ve found that the highest number of loan applicants typically have over 10 years of work experience. Furthermore, a significant proportion of these applicants are approved for loans. This observation can be attributed to the fact that stable employment, particularly with over a decade of experience, is often associated with a lower risk of default. Lenders frequently consider stable employment as a key factor when evaluating a borrower’s capacity to repay loans.
 
 
 **What proportion of loans are categorized as good versus bad?**
+![image](https://github.com/Bafnakb/Bank-Loan-Analysis/assets/106813409/e0453a50-a343-4ac2-b5e4-f4b762a2234b)
 
  
 Based on our analysis, we define good loans as those that are either fully paid or currently being paid off. Our findings indicate that approximately 86% of the loans fall into this category. Conversely, bad loans are characterized as charge-offs, where the lender or creditor has deemed the account as a loss and closed it to future charges. According to our analysis, charge-offs account for approximately 14% of the total loans. This suggests that the majority of our borrowers are effectively managing their debts and making payments on time.
@@ -59,7 +63,8 @@ Based on our analysis, we define good loans as those that are either fully paid 
 
 This visualization provides a comprehensive analysis of the bank's loan portfolio, showcasing various key metrics and insights through interactive charts and graphs.
 
- 
+ ![image](https://github.com/Bafnakb/Bank-Loan-Analysis/assets/106813409/8314576e-3a7c-43ad-bbf9-cb349680623e)
+
 
 The report begins with a summary of key metrics, showcasing the total number of loan applications, the total funded amount, and the total amount received from loan repayments. It also tracks the average interest rate and the average debt-to-income (DTI) ratio, offering a snapshot of the bank’s financial metrics. Each metric is accompanied by month-to-date (MTD) and month-over-month (MoM) changes, giving a clear view of recent performance trends. The left sidebar includes navigation options (Summary, Overview, Details) and filters for measure, purpose, state, and grade, enabling users to customize the view according to specific criteria and focus areas. This interactive capability enhances the utility of the report for various analytical needs
 
@@ -76,7 +81,8 @@ The loans are further classified by their status:
 
 
 
- 
+ ![image](https://github.com/Bafnakb/Bank-Loan-Analysis/assets/106813409/960eeb9b-0ea6-453e-a463-82d7e5ea3015)
+
 
 Detailed Insights:
 
@@ -89,7 +95,8 @@ The detailed section of the report breaks down the loan data by various dimensio
 •	State-wise Distribution: Maps highlight the geographic spread of the loan portfolio, indicating regions with high or low loan activity.
 •	Term and Home Ownership Breakdown: Pie charts provide a quick view of loan distribution by repayment term and home ownership status, respectively.
 
- 
+ ![image](https://github.com/Bafnakb/Bank-Loan-Analysis/assets/106813409/8b4910c5-2308-4c75-b52f-11ee46b25ab9)
+
 
 A detailed table lists individual loan records with columns for loan ID, purpose, home ownership status, grade and sub-grade, issue date, total funded amount, interest rate, instalment sum, and total amount received. This table allows for in-depth analysis of specific loans and their attributes, supporting a granular examination of the loan portfolio's composition and performance.
 
