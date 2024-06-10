@@ -92,12 +92,19 @@ Detailed Insights:
 The detailed section of the report breaks down the loan data by various dimensions:
 
 •	Purpose of the Loan: This categorization shows the different reasons for which loans were taken, such as for cars, home improvements, or other purposes. It helps in understanding the demand trends and areas where the bank’s loan products are most utilized.
+
 •	Home Ownership Status: Loans are also segmented by the borrower’s home ownership status (e.g., mortgage, rent, own). This provides insights into the risk profiles and repayment capabilities of different borrower groups.
+
 •	Geographic Distribution: The report includes a geographic breakdown, showing the distribution of loans across various states. This helps in identifying regional lending patterns and potential areas for expansion or risk management.
+
 •	Employment Duration: Loans are analysed based on the borrower’s employment duration, providing a correlation between job stability and loan performance.
+
 •	Trends Over Time: Charts showing the total amount received by month illustrate the repayment trends and seasonal variations in loan performance.
+
 •	State-wise Distribution: Maps highlight the geographic spread of the loan portfolio, indicating regions with high or low loan activity.
+
 •	Term and Home Ownership Breakdown: Pie charts provide a quick view of loan distribution by repayment term and home ownership status, respectively.
+
 
  ![image](https://github.com/Bafnakb/Bank-Loan-Analysis/assets/106813409/8b4910c5-2308-4c75-b52f-11ee46b25ab9)
 
