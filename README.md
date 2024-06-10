@@ -1,17 +1,20 @@
-# Bank-Loan-Analysis
-Bank Loan Analysis
+# Bank Loan Analysis
 
 Introduction:
 
 This Bank Loan Report, derived from an extensive SQL-based exploratory data analysis (EDA) and data visualization project using Power BI, offers a comprehensive overview of the bank's loan portfolio. Through complex queries and data manipulations, the report provides detailed insights into application volumes, funding activities, and repayment performance. It highlights the overall health of the bank’s lending operations and reveals critical patterns and trends across various dimensions, offering an in-depth examination of the portfolio.
 
 Skills Demonstrated:
-SQL, specifically SQL Management Studio, serves as the relational database tool for tasks including data cleansing, manipulation, and analysis. Power BI is utilized for data visualization.
+
+SQL, specifically SQL Management Studio, serves as the relational database tool for tasks including data cleansing, manipulation, and analysis. 
+Power BI is utilized for data visualization.
 
 Overview:
+
 The report begins with a summary of key metrics, showcasing the total number of loan applications, the total funded amount, and the total amount received from loan repayments. It also tracks the average interest rate and the average debt-to-income (DTI) ratio, offering a snapshot of the bank’s financial metrics.
 
 Problem Statement:
+
 1.	What is the monthly count of loan applications? 
 2.	What is the primary purpose for which loans are collected?
 3.	Does homeownership influence the loan approval process for applicants?
@@ -21,6 +24,8 @@ Problem Statement:
 Exploratory Data Analysis
 
 What is the monthly count of loan applications? 
+![image](https://github.com/Bafnakb/Bank-Loan-Analysis/assets/106813409/373fa5fd-b98d-4d17-8c6b-7cf1a3cbc46b)
+
  
 The data shows an increase in the number of loan applications, funded amounts, and received amounts towards the end of the year. This could indicate seasonal trends or growing demand over the months.
 What is the primary purpose for which loans are collected?
