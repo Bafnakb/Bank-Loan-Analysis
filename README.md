@@ -90,6 +90,7 @@ The loans are further classified by their status:
 Detailed Insights:
 
 The detailed section of the report breaks down the loan data by various dimensions:
+
 •	Purpose of the Loan: This categorization shows the different reasons for which loans were taken, such as for cars, home improvements, or other purposes. It helps in understanding the demand trends and areas where the bank’s loan products are most utilized.
 •	Home Ownership Status: Loans are also segmented by the borrower’s home ownership status (e.g., mortgage, rent, own). This provides insights into the risk profiles and repayment capabilities of different borrower groups.
 •	Geographic Distribution: The report includes a geographic breakdown, showing the distribution of loans across various states. This helps in identifying regional lending patterns and potential areas for expansion or risk management.
