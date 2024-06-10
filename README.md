@@ -54,6 +54,7 @@ Based on our analysis, we’ve found that the highest number of loan applicants 
 
 
 **What proportion of loans are categorized as good versus bad?**
+
 ![image](https://github.com/Bafnakb/Bank-Loan-Analysis/assets/106813409/e0453a50-a343-4ac2-b5e4-f4b762a2234b)
 
  
