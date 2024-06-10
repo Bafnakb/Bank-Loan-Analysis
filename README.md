@@ -59,7 +59,9 @@ Based on our analysis, we’ve found that the highest number of loan applicants 
  
 Based on our analysis, we define good loans as those that are either fully paid or currently being paid off. Our findings indicate that approximately 86% of the loans fall into this category. Conversely, bad loans are characterized as charge-offs, where the lender or creditor has deemed the account as a loss and closed it to future charges. According to our analysis, charge-offs account for approximately 14% of the total loans. This suggests that the majority of our borrowers are effectively managing their debts and making payments on time.
 
-**Power BI Visualization Overview:**
+**Power BI Visualization**
+
+**Overview:**
 
 This visualization provides a comprehensive analysis of the bank's loan portfolio, showcasing various key metrics and insights through interactive charts and graphs.
 
